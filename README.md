@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter Application Development **
 
-- 💬 Ask me about **C++, Flutter, Dart, Firebase**
+- 💬 Ask me about **C++, Java, Flutter, Dart, Firebase**
 
 - 📫 How to reach me **Ping me on LinkedIn**
 
