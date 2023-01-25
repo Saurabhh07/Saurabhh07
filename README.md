@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **Ping me on LinkedIn**
 
-- 📄 Know about my experiences by viewing my resume
-- [Resume](https://drive.google.com/file/d/1JBVHE9b3UH7ObYiSbiUfnzftYvVcRqvU/view?usp=share_link))
+- 📄 Know about my experiences by viewing my resume - [Resume](https://drive.google.com/file/d/1JBVHE9b3UH7ObYiSbiUfnzftYvVcRqvU/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
