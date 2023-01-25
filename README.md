@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Rajpoot</h1>
-<h3 align="center">Student</h3>
+<h3 align="center">Student at Pune Institute Of Computer Technology</h3>
 
 
 - 🔭 I’m currently working on **SYNC Intern Tasks**
