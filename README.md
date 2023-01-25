@@ -1,32 +1,24 @@
-<h1 align="center">Hi 👋, I'm Rahul Badgujar</h1>
-<h3 align="center">Software Developer Intern at Tenfins Consulting, Boulder, CO, USA</h3>
+<h1 align="center">Hi 👋, I'm Saurabh Rajpoot</h1>
+<h3 align="center">Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-badgujar&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-badgujar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-badgujar" alt="rahul-badgujar" /></a> </p>
+- 🔭 I’m currently working on **SYNC Intern Tasks**
 
-<p align="left"> <a href="https://twitter.com/rahul_badgujar_" target="blank"><img src="https://img.shields.io/twitter/follow/imrb7here?logo=twitter&style=for-the-badge" alt="https://twitter.com/rahul_badgujar_" /></a> </p>
+- 🌱 I’m currently learning **Flutter and Firebase**
 
-- 🔭 I’m currently working on **Messaging Systems**
-
-- 🌱 I’m currently learning **Dart for Server Side Development**
-
-- 👯 I’m looking to collaborate on **Server Architecture**
-
-- 🤝 I’m looking for help with **Cache Systems**
-
-- 👨‍💻 All of my projects are available at [https://rahul-badgujar-portfolio.web.app/](https://rahul-badgujar-portfolio.web.app/)
+- 👯 I’m looking to collaborate on **Flutter Application Development **
 
 - 💬 Ask me about **C++, Flutter, Dart, Firebase**
 
 - 📫 How to reach me **Ping me on LinkedIn**
 
-- 📄 Know about my experiences by viewing my resume [https://1drv.ms/w/s!AgXR8VUb1SGgiDmom2QPUaHGk1GG](https://1drv.ms/w/s!AgXR8VUb1SGgiDmom2QPUaHGk1GG)
+- 📄 Know about my experiences by viewing my resume [[https://1drv.ms/w/s!AgXR8VUb1SGgiDmom2QPUaHGk1GG](https://drive.google.com/file/d/1JBVHE9b3UH7ObYiSbiUfnzftYvVcRqvU/view?usp=share_link)]([https://1drv.ms/w/s!AgXR8VUb1SGgiDmom2QPUaHGk1GG](https://drive.google.com/file/d/1JBVHE9b3UH7ObYiSbiUfnzftYvVcRqvU/view?usp=share_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rahul_badgujar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rahul_badgujar_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahulbadgujar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahulbadgujar/" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/saurabh-rajpoot-053035143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurabh-rajpoot-053035143/" height="30" width="40" /></a>
+  
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/8210852/rahul-badgujar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8210852/rahul-badgujar" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/rahulbadgujar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rahulbadgujar" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/imrahulb3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/imrahulb3/" height="30" width="40" /></a>
